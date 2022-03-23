@@ -1,2 +1,0 @@
-# CVI-SZU
-# Hello World!
