@@ -9,7 +9,7 @@
   2. 弱监督物体检测/语义分割
   
      - 基于图像类别标签的物体检测网络、语义分割网络，减少通用物体检测/分割网络对标注数据的要求。研究如何利用大规模预训练模型减少网络对训练数据的要求，在零样本开放数据上依然能够取得良好性能。
-        - **CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation (CVPR 2022)** [[paper](https://arxiv.org/abs/2203.02668)] [[code](https://github.com/CVI-SZU/CLIMS)]
+        - **CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation (CVPR 2022)** [[paper](https://arxiv.org/abs/2203.02668)] [project](https://sierkinhane.github.io/clims/) [[code](https://github.com/CVI-SZU/CLIMS)]
      
   3. 人脸识别/分析与合成
   
