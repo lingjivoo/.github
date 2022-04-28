@@ -12,11 +12,24 @@
         - **CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation (CVPR 2022)** [[paper](https://arxiv.org/abs/2203.02668)] [[project](https://sierkinhane.github.io/clims/)] [[code](https://github.com/CVI-SZU/CLIMS)]
         - **CCAM: Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation (CVPR 2022)** [[paper](https://arxiv.org/pdf/2203.13505.pdf)] [[project]()] [[code](https://github.com/CVI-SZU/CCAM)]
      
-  3. 人脸识别/分析与合成
-  
-     - 基于深度卷积网络的人脸识别、表情、年龄等属性识别方法及系统，基于GAN、StyleGAN的人脸编辑，文本驱动的人脸生成，以及基于人脸视频的个体性格、抑郁等心理情绪预测。开发的人脸识别系统在深圳高交会、双创周、杭州G20和新疆安防广泛使用。
+  3. 人脸识别/分析
+     - 基于深度卷积网络的人脸识别、表情、年龄等属性识别方法及系统，基于人脸视频的个体性格、抑郁等心理情绪预测。开发的人脸识别系统在深圳高交会、双创周、杭州G20和新疆安防广泛使用。
 
-  4. 医学图像智能分析
+  4. 人脸生成与属性编辑
+
+     - 基于图像翻译的人脸属性编辑
+        - **Translate the Facial Regions You Like Using Self-Adaptive Region Translation (AAAI 2021)** [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1663.LiuW.pdf)]
+        - **GazeFlow: Gaze Redirection with Normalizing Flows (IJCNN 2021)** [[paper](https://ieeexplore.ieee.org/abstract/document/9533913)]
+        - **Gated SwitchGAN for multi-domain facial image translation (IEEE TMM 2021)** [[paper](https://arxiv.org/pdf/2111.14096)]
+        - **Deep Feature Consistent Variational Autoencoder (WACV 2017)** [[paper](https://arxiv.org/pdf/1610.00291.pdf)] [[project](https://houxianxu.github.io/assets/project/dfcvae)] [[code](https://github.com/houxianxu/DFC-VAE)]
+     - 基于预训练模型的人脸属性编辑
+        - **Lifelong Age Transformation with a Deep Generative Prior (IEEE TMM 2022)** [[paper](https://ieeexplore.ieee.org/abstract/document/9726897/)] [[project](https://houxianxu.github.io/assets/project/age-editing)]
+        - **Guidedstyle: Attribute Knowledge Guided Style Manipulation for Semantic Face Editing (Neural Networks 2022)** [[paper](https://www.sciencedirect.com/science/article/pii/S0893608021004081)]
+        - **SSFlow: Style-guided Neural Spline Flows for Face Image Manipulation (ACM MM 2021)** [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475454)]
+     - 基于文本的人脸生成与编辑
+        - **TextFace: Text-to-Style Mapping based Face Generation and Manipulation (IEEE TMM 2022)** [[paper](https://ieeexplore.ieee.org/abstract/document/9737433/)] [[project](https://houxianxu.github.io/assets/project/textface)]
+
+  5. 医学图像智能分析
   
      - 大脑MRI图像肿瘤区域分割、牙齿CT图像种牙位置预测、多尺度卷积网络的X光图像肺结节识别，眼底图像/视网膜OCT图像疾病检测；
      
