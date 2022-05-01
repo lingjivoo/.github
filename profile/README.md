@@ -5,6 +5,18 @@
   
      - 新型网络架构、特征提取模块提升CNN、Transformer性能；提出小波卷积层代替下采样池化及上采样模块，解决高低频信号混叠问题。结合手工特征，引导网络早期的快速收敛。研究最新文本-图像跨模态生成模型及其应用。
         - **Wavelet Integrated CNNs for Noise-Robust Image Classification (CVPR 2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Wavelet_Integrated_CNNs_for_Noise-Robust_Image_Classification_CVPR_2020_paper.pdf)] [[code](https://github.com/CVI-SZU/WaveCNet)]
+     -
+	 提出了场景一致性的表示学习框架，以及视频场景分割应用
+        - **Scene Consistency Representation Learning for Video Scene Segmentation (CVPR 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/CVPR2022-Wu.pdf)] 
+     - 
+	 通过特征的对抗攻击提升针对开放场景的有效性，并将噪声隐藏在高频区域提升不可察觉性
+        - **Frequency-driven Imperceptible Adversarial Attack on Semantic Similarity (CVPR 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/CVPR2022-Luo.pdf)] [[project](https://github.com/LinQinLiang/SSAH-adversarial-attack)] 
+	 - 
+	 基于分组正则化以抑制显著特征与激活次显著特征，并实现识别算法的对抗鲁棒性提升
+        - **Group-wise Inhibition based Feature Regularization for Robust Classification (ICCV 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/ICCV2021.pdf)] [[project](https://github.com/LinusWu/TENET_Training)] 
+	 - 
+	 构建了基于深度特征密度的失活算法及目标识别应用
+        - **Group-Wise Dynamic Dropout Based on Latent Semantic Variation (AAAI 2020)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/AAAI2020.pdf)] 
 
   2. 弱监督物体检测/语义分割
   
@@ -15,6 +27,19 @@
      
   3. 人脸识别/分析
      - 基于深度卷积网络的人脸识别、表情、年龄等属性识别方法及系统，基于人脸视频的个体性格、抑郁等心理情绪预测。开发的人脸识别系统在深圳高交会、双创周、杭州G20和新疆安防广泛使用。
+	 
+	 - 基于手工特征引导的深度度量损失函数
+		- **Adaptive Weighting of Hand-crafted Feature Losses for Facial Expression Recognition (TCYB 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/TCYB2019.pdf)]
+	 - 基于样本高维特征的异常样本抑制以及三元组损失函数设计
+		- **Triplet loss with multistage outlier suppression and class-pair margins for facial expression recognition (IEEE TCSVT 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/TCSVT2022.pdf)] 
+	 - 表情皱纹的自动检测与基于人脸形变的表情合成
+		- **A Novel Transient Wrinkle Detection Algorithm and Its Application for Expression Synthesis (IEEE TMM 2017)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/TMM2017.pdf)]
+	 - 基于代理子模型的网络超参数优化以及表情识别应用
+		- **Surrogate Network-based Sparseness Hyper-parameter Optimization for Deep Expression Recognition (Pattern Recognition 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/PR2021.pdf)] 
+	 - 基于稀疏度量损失的共性特征表征与表情识别
+		- **Sparse deep feature learning for facial expression recognition (Pattern Recognition 2019)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/PR2019.pdf)]
+	 - 基于多维边缘特征的面部运动单元的关系图学习以及动作单元的识别应用
+        - **Learning Multi-dimensional Edge Feature-based AU Relation Graph for Facial Action Unit Recognition (IJCAI 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/IJCAI2022.pdf)] [[project](https://github.com/CVI-SZU/MEFARG)] 
 
   4. 人脸生成与属性编辑
 
