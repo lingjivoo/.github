@@ -8,9 +8,9 @@
      - 提出了场景一致性的表示学习框架，以及视频场景分割应用
         - **Scene Consistency Representation Learning for Video Scene Segmentation (CVPR 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/CVPR2022-Wu.pdf)] 
      - 通过特征的对抗攻击提升针对开放场景的有效性，并将噪声隐藏在高频区域提升不可察觉性
-        - **Frequency-driven Imperceptible Adversarial Attack on Semantic Similarity (CVPR 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/CVPR2022-Luo.pdf)] [[project](https://github.com/LinQinLiang/SSAH-adversarial-attack)] 
+        - **Frequency-driven Imperceptible Adversarial Attack on Semantic Similarity (CVPR 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/CVPR2022-Luo.pdf)] [[code](https://github.com/LinQinLiang/SSAH-adversarial-attack)] 
      - 基于分组正则化以抑制显著特征与激活次显著特征，并实现识别算法的对抗鲁棒性提升
-        - **Group-wise Inhibition based Feature Regularization for Robust Classification (ICCV 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/ICCV2021.pdf)] [[project](https://github.com/LinusWu/TENET_Training)] 
+        - **Group-wise Inhibition based Feature Regularization for Robust Classification (ICCV 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/ICCV2021.pdf)] [[code](https://github.com/LinusWu/TENET_Training)] 
      - 构建了基于深度特征密度的失活算法及目标识别应用
         - **Group-Wise Dynamic Dropout Based on Latent Semantic Variation (AAAI 2020)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/AAAI2020.pdf)] 
 
