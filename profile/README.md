@@ -20,7 +20,7 @@
         - **Geometry Constrained Weakly Supervised Object Localization (ECCV 2020)** [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710477.pdf)][[code](https://github.com/lwzeng/GC-Net)]
         - **CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation (CVPR 2022)** [[paper](https://arxiv.org/abs/2203.02668)] [[project](https://sierkinhane.github.io/clims/)] [[code](https://github.com/CVI-SZU/CLIMS)]
         - **CCAM: Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation (CVPR 2022)** [[paper](https://arxiv.org/pdf/2203.13505.pdf)] [[project]()] [[code](https://github.com/CVI-SZU/CCAM)]
-     - 目标检测
+     - 文本检测
      	- **Self-attention based Text Knowledge Mining for Text Detection (CVPR 2021)** [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wan_Self-Attention_Based_Text_Knowledge_Mining_for_Text_Detection_CVPR_2021_paper.pdf)][[code](https://github.com/CVI-SZU/STKM)]
      
   3. 人脸识别/分析
