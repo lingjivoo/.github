@@ -1,7 +1,7 @@
 # 深圳大学计算机视觉研究所 :sunny: 
 ## 研究领域
-
     1. 通用深度学习理论
+    
        - 新型网络架构、特征提取模块提升CNN、Transformer性能；提出小波卷积层代替下采样池化及上采样模块，解决高低频信号混叠问题。
          - **WaveCNet: Wavelet Integrated CNNs to Suppress Aliasing Effect for Noise-Robust Image Classification (IEEE TIP 2021)** [[paper](https://ieeexplore.ieee.org/document/9508165)]         
      	- **Wavelet Integrated CNNs for Noise-Robust Image Classification (CVPR 2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Wavelet_Integrated_CNNs_for_Noise-Robust_Image_Classification_CVPR_2020_paper.pdf)] [[code](https://github.com/CVI-SZU/WaveCNet)]
