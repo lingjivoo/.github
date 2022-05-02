@@ -25,7 +25,6 @@
      
   3. 人脸识别/分析
      - 基于深度卷积网络的人脸识别、表情、年龄等属性识别方法及系统，基于人脸视频的个体性格、抑郁等心理情绪预测。开发的人脸识别系统在深圳高交会、双创周、杭州G20和新疆安防广泛使用。
-	 
 	 - 基于手工特征引导的深度度量损失函数
 		- **Adaptive Weighting of Hand-crafted Feature Losses for Facial Expression Recognition (TCYB 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/TCYB2019.pdf)]
 	 - 基于样本高维特征的异常样本抑制以及三元组损失函数设计
