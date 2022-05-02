@@ -1,19 +1,19 @@
 # 深圳大学计算机视觉研究所 :sunny: 
-
 ## 研究领域
     1. 通用深度学习理论
+    
        - 新型网络架构、特征提取模块提升CNN、Transformer性能；提出小波卷积层代替下采样池化及上采样模块，解决高低频信号混叠问题。
+     
          - **WaveCNet: Wavelet Integrated CNNs to Suppress Aliasing Effect for Noise-Robust Image Classification (IEEE TIP 2021)** [[paper](https://ieeexplore.ieee.org/document/9508165)]         
-     	- **Wavelet Integrated CNNs for Noise-Robust Image Classification (CVPR 2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Wavelet_Integrated_CNNs_for_Noise-Robust_Image_Classification_CVPR_2020_paper.pdf)] [[code](https://github.com/CVI-SZU/WaveCNet)]
+     	 - **Wavelet Integrated CNNs for Noise-Robust Image Classification (CVPR 2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Wavelet_Integrated_CNNs_for_Noise-Robust_Image_Classification_CVPR_2020_paper.pdf)] [[code](https://github.com/CVI-SZU/WaveCNet)]
        - 结合手工特征，引导网络早期的快速收敛。
-        - **Adaptive Weighting of Hand-crafted Feature Losses for Facial Expression Recognition (IEEE TCYB 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/TCYB2019.pdf)]
-
+         - **Adaptive Weighting of Hand-crafted Feature Losses for Facial Expression Recognition (IEEE TCYB 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/TCYB2019.pdf)]
        - 引入模糊理论的深度学习及其硬件加速
-        - **Memristive Fuzzy Deep Learning Systems (IEEE TFS 2021)** [[paper](https://ieeexplore.ieee.org/document/9098057)] 
-        - **Memristive Quantized Neural Networks A Novel Approach to Accelerate Deep Learning On-Chip (IEEE TCYB 2021)** [[paper](https://ieeexplore.ieee.org/document/8705375)] 
+         - **Memristive Fuzzy Deep Learning Systems (IEEE TFS 2021)** [[paper](https://ieeexplore.ieee.org/document/9098057)] 
+         - **Memristive Quantized Neural Networks A Novel Approach to Accelerate Deep Learning On-Chip (IEEE TCYB 2021)** [[paper](https://ieeexplore.ieee.org/document/8705375)] 
        - 特征的自适应分组抑制、激活与基于特征密度的失活算法
-        - **Group-wise Inhibition based Feature Regularization for Robust Classification (ICCV 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/ICCV2021.pdf)] [[code](https://github.com/LinusWu/TENET_Training)] 
-        - **Group-Wise Dynamic Dropout Based on Latent Semantic Variation (AAAI 2020)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/AAAI2020.pdf)] 
+         - **Group-wise Inhibition based Feature Regularization for Robust Classification (ICCV 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/ICCV2021.pdf)] [[code](https://github.com/LinusWu/TENET_Training)] 
+         - **Group-Wise Dynamic Dropout Based on Latent Semantic Variation (AAAI 2020)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/AAAI2020.pdf)] 
 
        - 通过特征的对抗攻击提升针对开放场景的有效性，并将噪声隐藏在高频区域提升不可察觉性
         - **Frequency-driven Imperceptible Adversarial Attack on Semantic Similarity (CVPR 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/CVPR2022-Luo.pdf)] [[code](https://github.com/LinQinLiang/SSAH-adversarial-attack)] 
