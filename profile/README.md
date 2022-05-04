@@ -7,7 +7,7 @@
      	 - **Wavelet Integrated CNNs for Noise-Robust Image Classification (CVPR 2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Wavelet_Integrated_CNNs_for_Noise-Robust_Image_Classification_CVPR_2020_paper.pdf)] [[code](https://github.com/CVI-SZU/WaveCNet)]
        - 结合手工特征，引导网络早期的快速收敛。
          - **Adaptive Weighting of Hand-crafted Feature Losses for Facial Expression Recognition (IEEE TCYB 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/TCYB2019.pdf)] [[project](https://wcxie.github.io/Weicheng-Xie/PaperProject/AWHFL_TCYB2019/)]
-       - 引入模糊理论的深度学习及其硬件加速
+       - 设计了忆阻模糊深度学习系统，以在低精度的设备条件下提高图像识别精度。以及基于忆阻的量化深度学习网络结构，从而加快训练速度和减小存储空间。
          - **Memristive Fuzzy Deep Learning Systems (IEEE TFS 2021)** [[paper](https://ieeexplore.ieee.org/document/9098057)] 
          - **Memristive Quantized Neural Networks A Novel Approach to Accelerate Deep Learning On-Chip (IEEE TCYB 2021)** [[paper](https://ieeexplore.ieee.org/document/8705375)] 
        - 特征的自适应分组抑制、激活与基于特征密度的失活算法
