@@ -43,7 +43,7 @@
      	  - **Surrogate Network-based Sparseness Hyper-parameter Optimization for Deep Expression Recognition (Pattern Recognition 2021)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/PR2021.pdf)] [[project](https://wcxie.github.io/Weicheng-Xie/PaperProject/SNSHO_PR2021/)] 
      	  - **Sparse deep feature learning for facial expression recognition (Pattern Recognition 2019)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/PR2019.pdf)] [[project](https://wcxie.github.io/Weicheng-Xie/PaperProject/SDFL_PR2019/)]
      - 基于多维边缘特征的面部运动单元的关系图学习以及动作单元的识别应用
-        - **Learning Multi-dimensional Edge Feature-based AU Relation Graph for Facial Action Unit Recognition (IJCAI 2022)** [[paper](https://wcxie.github.io/Weicheng-Xie/pdf/IJCAI2022.pdf)] [[code](https://github.com/CVI-SZU/MEFARG)] 
+        - **Learning Multi-dimensional Edge Feature-based AU Relation Graph for Facial Action Unit Recognition (IJCAI 2022)** [[paper](https://arxiv.org/pdf/2205.01782.pdf)] [[code](https://github.com/CVI-SZU/ME-GraphAU)] 
 
   4. 人脸生成与属性编辑
 
